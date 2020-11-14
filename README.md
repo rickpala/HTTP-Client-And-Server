@@ -13,5 +13,4 @@ The server listens for GET Requests using TCP, and sends back the
 contents of a file that the client requests.
 
 
-![Image of Program Execution]
-(https://github.com/rpalaguachi/HTTP-Client-And-Server/blob/main/http-output.pdf)
+![Image of Program Execution](https://github.com/rpalaguachi/HTTP-Client-And-Server/blob/main/http-output.pdf)
