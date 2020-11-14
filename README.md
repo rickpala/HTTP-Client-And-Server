@@ -14,4 +14,4 @@ contents of a file that the client requests.
 
 
 ![Image of Program Execution]
-(http-output.pdf)
+(https://github.com/rpalaguachi/HTTP-Client-And-Server/blob/main/http-output.pdf)
